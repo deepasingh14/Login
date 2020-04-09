@@ -1,0 +1,6 @@
+C:\Users\deepa.singh\Desktop\login\loginpage\loginpage\bin\loginpage.dll.config
+C:\Users\deepa.singh\Desktop\login\loginpage\loginpage\bin\loginpage.dll
+C:\Users\deepa.singh\Desktop\login\loginpage\loginpage\bin\loginpage.pdb
+C:\Users\deepa.singh\Desktop\login\loginpage\loginpage\obj\Debug\loginpage.csprojResolveAssemblyReference.cache
+C:\Users\deepa.singh\Desktop\login\loginpage\loginpage\obj\Debug\loginpage.dll
+C:\Users\deepa.singh\Desktop\login\loginpage\loginpage\obj\Debug\loginpage.pdb
